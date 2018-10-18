@@ -40,7 +40,7 @@
     {
       "name": "api-freshness",
       "urls": [
-        "/api/event"
+        "/data/event.json"
       ],
       "cacheConfig": {
         "strategy": "freshness",
